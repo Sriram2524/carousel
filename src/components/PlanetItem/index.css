@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.carousel-con {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.carousel-img {
+  width: 40%;
+  height: 40%;
+}
+.heading {
+  color: white;
+  font-family: roboto;
+  font-weight: bold;
+  font-size: 30px;
+}
+.description {
+  color: #f1f5f9;
+  font-family: roboto;
+  font-size: 16px;
+}
